@@ -7,5 +7,5 @@ Raymond Chen
 
 2. Yes, you can simply write a case that passes a string of 80 chars expecting true and 81 chars expecting false to verify the logic of a singular section.
 
-https://satellamoon.github.io/Lab5/expose.html
-https://satellamoon.github.io/Lab5/explore.html
+https://satellamoon.github.io/Lab5_StarterA/expose.html  
+https://satellamoon.github.io/Lab5_StarterA/explore.html
